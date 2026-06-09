@@ -38,6 +38,10 @@ Output:
 
 * SRR37631993_1.fastq
 * SRR37631993_2.fastq
+`bash
+prefetch SRR37631993
+fasterq-dump SRR37631993
+``
 
 ### 3. Quality Control
 
